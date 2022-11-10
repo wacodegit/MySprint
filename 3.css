@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background: url("image/register_bg.png")no-repeat center;
-    padding-top: 25px;
+    background: url('picture/4.jpg') ;
+    background-size: 100%;
 }
 .rg_layout{
     width: 900px;
