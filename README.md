@@ -1,5 +1,5 @@
 <h1>MySprint</h1>
-<p>There are 4 pages</p>
+<p>There are 5 pages</p>
   <ul>
     <li>Homepage</li>
     <li>Task Manager</li>
