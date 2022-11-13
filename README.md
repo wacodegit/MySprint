@@ -2,6 +2,7 @@
 <p>There are 4 pages</p>
   <ul>
     <li>Homepage</li>
+    <li>Task Manager</li>
     <li>Add New Task</li>
     <li>Signup</li>
     <li>ContactUs</li>
