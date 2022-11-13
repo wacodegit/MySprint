@@ -1,0 +1,79 @@
+body {
+	font-family: 'trebuchet MS', 'Lucida sans', Arial;
+	font-size: 14px;
+	color: #555;
+	width: 40%;
+	margin: 60px auto;
+	background: url('picture/6.jpg');
+
+}
+
+table {
+	width: 100%;
+	border-spacing: 0;
+	box-shadow: 0 1px 1px #ccc;
+}
+
+.Modbus {
+	border: solid #ccc 1px;
+	border-radius: 10px;
+}
+
+.Modbus td,
+.Modbus th {
+	border-right: solid #ccc 1px;
+	border-bottom: solid #ccc 1px;
+	padding: 10px;
+	text-align: center;
+}
+
+.Modbus thead {
+	background-color: #dce9f9;
+}
+
+.Modbus td:last-child,
+.Modbus th:last-child {
+	border-right: none;
+}
+
+.Modbus tr:last-child td {
+	border-bottom: none;
+}
+
+
+.Modbus th:first-child {
+	border-radius: 10px 0 0 0;
+}
+
+.Modbus th:last-child {
+	border-radius: 0 10px 0 0;
+}
+
+.Modbus tr:last-child td:first-child {
+	border-radius: 0 0 0 10px;
+}
+
+.Modbus tr:last-child td:last-child {
+	border-radius: 0 0 10px 0;
+}
+
+.Modbus tr:hover {
+	background: #fbf8e9;
+}
+
+
+.item1 {
+	width: 10%;
+}
+
+.item2 {
+	width: 10%;
+}
+
+.item3 {
+	width: 50%;
+}
+
+.item4 {
+	width: 30%;
+}
